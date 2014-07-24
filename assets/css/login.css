@@ -1,0 +1,11 @@
+.container {
+	max-width: 450px;
+}
+
+.text-danger {
+	text-align: center;
+}
+
+.text-success {
+	text-align: center;
+}
